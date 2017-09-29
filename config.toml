@@ -4,7 +4,7 @@ title = "Tonći Kokan"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "toncikokan"
 googleAnalytics = ""
 pluralizeListTitles = false
 
